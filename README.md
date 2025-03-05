@@ -10,10 +10,10 @@ Excel Features: Pivot Tables, Power Query, Charts
 Data Visualization: KPIs, Sales Trends, Category Insights
 
 📂 Pizza-Sales-Analysis:
-│── 📄 pizza_sales_data.csv  (Raw data)
-│── 📄 pizza_sales_queries.sql  (SQL queries for analysis)
-│── 📊 pizza_sales_dashboard.xlsx  (Excel dashboard)
-│── 📄 README.md  (Project documentation)
+│── 📄 pizza_sale.csv  (Raw data)
+│── 📄 pizza_sales.sql  (SQL queries for analysis)
+│── 📊 pizza_sales.xlsx  (Excel dashboard)
+│── 📄Project_documentation.docx
 
 
 
